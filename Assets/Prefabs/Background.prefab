@@ -91,7 +91,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _backgroundImage: {fileID: 2167399292776123881}
   _backgroundColorText: {fileID: 327648437008215288}
-  backgroundColor: {r: 0, g: 0.15234184, b: 1, a: 1}
+  _backgroundColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &8600206710250763573
 GameObject:
   m_ObjectHideFlags: 0
